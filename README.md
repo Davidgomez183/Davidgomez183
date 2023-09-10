@@ -2,6 +2,6 @@
 
 ### Hola :smile: :clap: :clap:
 
-# Projectes 
+### Projectes 
 
-.[API-LARAVEL](https://github.com/Davidgomez183/API-laravel)
+[API-LARAVEL](https://github.com/Davidgomez183/API-laravel)
