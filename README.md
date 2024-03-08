@@ -1,6 +1,6 @@
 # David Gòmez -> Davidgomez183
 
-### Hola :smile: :clap: :clap:
+### Hola soy David Gomez Duque
 
 ### Projectes 
 
