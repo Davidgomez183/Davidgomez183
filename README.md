@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy David Gomez</h1>
 <h3 align="center">Desarrollador de aplicaciones multiplataforma</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Davidgomez183&label=Profile%20views&color=0e75b6&style=flat" alt="davidgomez183" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Davidgomez183&label=Profile%20views&color=0e75b6&style=flat" alt="Davidgomez183" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=davidgomez183" alt="davidgomez183" width="200" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=Davidgomez183" alt="Davidgomez183" width="200" /></a> </p>
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://davidgomez183.github.io/Portfolio/](https://davidgomez183.github.io/Portfolio/)
 
